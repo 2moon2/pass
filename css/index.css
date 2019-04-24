@@ -3,14 +3,22 @@
   justify-content: center;
   align-items: center;
   margin-left: 30px;
-  margin-top: 143px;
+  margin-top: 50px;
+  width: 80%;
 }
 
-.main__sign {
-  display: flex;
-  justify-content: space-around;
-  align-items: flex-end;
+.nav {
+  width: 100%;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
   font-family: Iceberg;
   font-size: 34px;
   color: #ffffff;
+}
+
+.nav .nav__list {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
 }

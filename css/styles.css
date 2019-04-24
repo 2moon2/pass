@@ -10,7 +10,8 @@
 
 body {
   margin-left: 45px;
-  background-image: linear-gradient(to bottom, #3250ff, #820ad2);
+
+  background-image: linear-gradient(to bottom, #3250ff, #b300ff);
 }
 
 a {
