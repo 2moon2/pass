@@ -1,9 +1,9 @@
 .main__logo {
   display: flex;
   justify-content: center;
-  align-items: center;
+
   margin-left: 30px;
-  margin-top: 50px;
+  margin-top: 30px;
   width: 80%;
 }
 
