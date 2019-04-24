@@ -4,6 +4,10 @@
 @import "header.css";
 @import "signin.css";
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin-left: 45px;
   background-image: linear-gradient(to bottom, #3250ff, #820ad2);

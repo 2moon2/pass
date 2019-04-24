@@ -4,7 +4,7 @@
   font-family: Iceberg;
   font-size: 50px;
   text-align: left;
-  line-height: 1.57;
+
   color: #ffffff;
 }
 
@@ -26,12 +26,13 @@
   width: 310px;
   height: 34px;
   font-size: 28px;
-  line-height: 2.64;
+
   border: none;
   background-color: transparent;
+
+  border-color: none;
   border-bottom: 1px solid #ffffff;
-  border-color: inherit;
-  border-inline-end-color: inherit;
+
   outline: none;
   color: #ffffff;
   font-family: Barlow;
