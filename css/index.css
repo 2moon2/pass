@@ -1,0 +1,28 @@
+.main__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+  margin-top: 143px;
+}
+
+.main__sign {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: Iceberg;
+  font-size: 34px;
+  color: #ffffff;
+}
+
+.main__nav-signup {
+  position: absolute;
+  bottom: 22px;
+  left: 60px;
+}
+
+.main__nav-signin {
+  position: absolute;
+  bottom: 22px;
+  right: 60px;
+}

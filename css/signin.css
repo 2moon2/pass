@@ -1,0 +1,71 @@
+.signin__title {
+  width: 132px;
+  height: 61px;
+  font-family: Iceberg;
+  font-size: 50px;
+  text-align: left;
+  line-height: 1.57;
+  color: #ffffff;
+}
+
+.userinfo {
+  display: block;
+}
+
+.user-mail {
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.user-pw {
+  margin-bottom: 100px;
+}
+
+.user-mail,
+.user-pw {
+  width: 310px;
+  height: 34px;
+  font-size: 28px;
+  line-height: 2.64;
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid #ffffff;
+  border-color: inherit;
+  border-inline-end-color: inherit;
+  outline: none;
+  color: #ffffff;
+  font-family: Barlow;
+  font-weight: 300;
+}
+.user-mail::placeholder,
+.user-pw::placeholder {
+  text-align: center;
+  color: #ffffff;
+  font-family: Barlow;
+  font-weight: 300;
+}
+
+.signin-content {
+  margin-left: 80px;
+  font-family: Barlow;
+  color: #ffffff;
+  opacity: 0.7;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+.signup-link {
+  height: 37px;
+  font-family: Iceberg;
+  font-size: 30px;
+  line-height: 1.57;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 120px;
+}
+
+.signin-btn {
+  position: absolute;
+  bottom: 20px;
+  background-color: #ffffff;
+}
