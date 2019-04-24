@@ -9,20 +9,8 @@
 .main__sign {
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  align-items: flex-end;
   font-family: Iceberg;
   font-size: 34px;
   color: #ffffff;
-}
-
-.main__nav-signup {
-  position: absolute;
-  bottom: 22px;
-  left: 60px;
-}
-
-.main__nav-signin {
-  position: absolute;
-  bottom: 22px;
-  right: 60px;
 }
