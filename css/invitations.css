@@ -1,0 +1,17 @@
+.invitations-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.invitations-card2 {
+  margin-top: 20px;
+}
+
+.activekey-date {
+  font-family: Barlow;
+  font-size: 20px;
+  color: #ffffff;
+  margin-bottom: 25px;
+}

@@ -1,0 +1,45 @@
+.friends__title {
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  font-family: Barlow;
+  font-size: 24px;
+  border-bottom: 1px solid #ffffff;
+}
+
+.friend-list {
+  margin: 30px 0px;
+
+  border-bottom: 1px solid #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.friend-picture {
+  margin-left: 20px;
+  width: 70px;
+  border-radius: 50px;
+  margin-bottom: 5px;
+}
+
+.friend-name {
+  margin-left: 35px;
+  font-family: "Noto Sans KR", sans-serif;
+  color: #ffffff;
+}
+
+.friend-image {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.friend-invite {
+  display: flex;
+  align-self: center;
+  margin-right: 20px;
+  padding: 10px 15px;
+  background-color: #ffffff;
+  color: #3250ff;
+  font-family: Barlow;
+}

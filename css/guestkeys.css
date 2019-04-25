@@ -1,0 +1,38 @@
+.create__navi {
+  width: 100%;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  font-family: Iceberg;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.create__navi .create__navi-list {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 90px;
+  padding-top: 30px;
+}
+
+.guest-key {
+  font-size: 30px;
+}
+
+.guestkey {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 46px;
+  margin-top: 50px;
+}
+
+.manage-title {
+  margin-top: 0px;
+}
+
+.guest-open,
+.guest-guests {
+  display: flex;
+  justify-content: space-around;
+}

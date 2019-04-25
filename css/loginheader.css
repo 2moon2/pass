@@ -1,0 +1,22 @@
+.loginmenu-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 35px;
+  margin-bottom: 81px;
+}
+
+.menu-icon {
+  width: 33px;
+  height: 22px;
+  border-radius: 3px;
+  border: solid 3px #ffffff;
+  margin-left: 45px;
+}
+
+.menu-content {
+  margin-right: 25px;
+  font-family: Iceberg;
+  font-size: 16px;
+  color: #ffffff;
+}

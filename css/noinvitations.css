@@ -1,0 +1,10 @@
+.noinvitations__content {
+  height: 100%;
+  opacity: 0.7;
+  font-family: Barlow;
+  font-size: 18px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  margin-top: 300px;
+}

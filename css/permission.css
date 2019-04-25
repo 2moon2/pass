@@ -1,0 +1,54 @@
+.per-place-name,
+.per-permittion-name,
+.per-access-name {
+  opacity: 0.7;
+  font-family: Barlow;
+  font-size: 24px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.per-place {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 46px;
+}
+
+.per-place-content {
+  font-family: Barlow;
+  font-size: 24px;
+  color: #ffffff;
+  margin-bottom: 45px;
+}
+
+.per-permit-title {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 46px;
+}
+
+.permit-place {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 46px;
+  margin-right: 70px;
+  margin-bottom: 30px;
+}
+
+.permit-place-name {
+  font-family: Barlow;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.invite-link {
+  padding: 10px 80px;
+  font-family: Barlow;
+  font-size: 28px;
+  text-align: center;
+  background-color: #ffffff;
+  color: #4f2eff;
+  margin: 0px 30px;
+  margin-top: 100px;
+}

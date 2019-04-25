@@ -1,13 +1,20 @@
-.main__logo {
-  display: flex;
-  justify-content: center;
-
-  margin-left: 30px;
-  margin-top: 30px;
-  width: 80%;
+main {
+  height: 100%;
 }
 
-.nav {
+.main .main__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 20px;
+  margin-top: 100px;
+}
+
+.main-logo {
+  width: 65%;
+}
+
+.navi {
   width: 100%;
   position: fixed;
   left: 0px;
@@ -17,8 +24,9 @@
   color: #ffffff;
 }
 
-.nav .nav__list {
+.navi .navi__list {
   display: flex;
   justify-content: space-around;
   margin-bottom: 50px;
+  padding-top: 30px;
 }
